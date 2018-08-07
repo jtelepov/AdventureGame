@@ -1,0 +1,8 @@
+1,Zobudil sisa doma vo svojom dome na strome
+2,Zisiel si dole
+3,Narazil si na cestu cez potok
+4,Prisiel si ku chramu
+5,Lesna krizovatka
+6,Prisiel si k jaskyni
+7,V srdci lesa si nasiel oltar
+8,Lesna cesta
